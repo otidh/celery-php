@@ -1,7 +1,7 @@
 {
-    "name": "massivescale/celery-php",
+    "name": "otidh/celery-php",
     "type": "library",
-    "description": "PHP client for Celery task queue",
+    "description": "PHP client for Celery task queue, a fork from gjedeer/celery-php",
     "keywords": ["celery", "amqp", "task", "cron", "queue", "redis", "python"],
     "homepage": "https://github.com/gjedeer/celery-php/",
     "support": {
